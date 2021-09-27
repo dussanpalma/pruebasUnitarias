@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.unitarias.junit5_app.ejemplos.models.CuentaTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.019 sec <<< FAILURE!
+com.unitarias.junit5_app.ejemplos.models.CuentaTest.testNombreCuenta()  Time elapsed: 0.003 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:35)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:99)
+	at com.unitarias.junit5_app.ejemplos.models.CuentaTest.testNombreCuenta(CuentaTest.java:22)
+
